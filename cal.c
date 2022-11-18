@@ -8,9 +8,9 @@ int sub(int a,int b)
 	printf("subtraction is : %d\n",a-b);
 }
 
-int mul(int a,int b)
+float mul(float a,float b)
 {
-	printf("multiplication is : %d\n",a*b);
+	printf("multiplication is : %f\n",a*b);
 }
 
 int main()
