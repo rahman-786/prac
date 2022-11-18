@@ -1,5 +1,5 @@
-# practise
-## this is for practise topics of
+# practise git
+## This is for practise topics of
 1.push
 2.pull
 3.add
