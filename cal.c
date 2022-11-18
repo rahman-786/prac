@@ -8,11 +8,16 @@ int sub(int a,int b)
 	printf("subtraction is : %d\n",a-b);
 }
 
+int mul(int a,int b)
+{
+	printf("multiplication is : %d\n",a*b);
+}
 
 int main()
 {
 	int a=2,b=4;
 	add(a,b);
 	sub(a,b);
+	mul(a,b);
 }
 	
